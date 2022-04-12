@@ -1,5 +1,7 @@
 # random-facts-chrome-extension
 
+A chrome extension which displays a random fact on popup.
+
 ![image](https://user-images.githubusercontent.com/87371365/162874940-e2db28fd-f561-4fd8-b8aa-f6ad3bd0fc01.png)
 
 
